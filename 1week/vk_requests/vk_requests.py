@@ -1,3 +1,4 @@
+#this is vk_API (library) version
 import vk
 from datetime import datetime
 from collections import Counter
